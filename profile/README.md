@@ -1,5 +1,3 @@
-# MirAI - Generative AI for Strategic Innovation 🚀  
-
 ## Hi there 👋  
 
 Welcome to **MirAI**! We are a **Venice-based AI startup** revolutionizing how businesses **innovate and strategize** using **Generative AI**. Our mission is to **empower companies** by making **AI-driven solutions** more accessible, intelligent, and transformative.  
