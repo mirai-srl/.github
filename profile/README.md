@@ -38,6 +38,6 @@ We work with a cutting-edge tech stack that includes:
 📧 **Email**: [info@mir-ai.it](mailto:info@mir-ai.it)  
 🌐 **Website**: [mir-ai.it](https://mir-ai.it)  
 📍 **Location**: Venice, Italy  
-💼 **LinkedIn**: [MirAI on LinkedIn](https://linkedin.com/company/mir-ai-srl)
+💼 **LinkedIn**: [MirAI on LinkedIn](https://www.linkedin.com/company/mir-ai-srl/)
 
 💡 *Let's shape the future of AI-driven strategy together!* 🚀
